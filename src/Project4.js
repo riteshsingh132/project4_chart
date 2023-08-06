@@ -61,6 +61,7 @@ function Project4() {
             <div className='container mt-5'>
                 <div className='row'>
                     <div className=' card col-sm-12 col-md-8 mx-auto'>
+                        <div className='card-body'>
                         <div className='row'>
                             <div className='col-sm-5'>
 
@@ -102,7 +103,7 @@ function Project4() {
 
                             </div>
                         </div>
-
+                        </div>
 
                     </div>
                 </div>
